@@ -6,7 +6,7 @@ const propTypes = {
 };
 
 const defaultProps = {
-  text: "Please enter some text",
+  text: 'Please enter some text',
 };
 
 const DisplayText = ({ text }) => (
